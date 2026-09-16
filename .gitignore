@@ -1,0 +1,18 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Pytest
+.pytest_cache/
+
+# Environment variables / secrets
+.env
+
+# Generated monitoring report
+models/data_drift_report.html
+
+# IDE files
+.vscode/
