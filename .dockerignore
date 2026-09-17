@@ -4,4 +4,3 @@ __pycache__
 .pytest_cache
 .git
 .gitignore
-models/data_drift_report.html
